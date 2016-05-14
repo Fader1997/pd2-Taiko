@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/GameScene">
+        <file>images/bg_clear.png</file>
+    </qresource>
+</RCC>

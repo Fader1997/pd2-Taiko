@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Drum2">
+        <file>images/blue.png</file>
+    </qresource>
+</RCC>
